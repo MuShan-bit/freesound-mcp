@@ -1,0 +1,24 @@
+{
+  "name": "@mushan_bit/freesound-mcp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "keywords": ["mcp", "freesound"],
+  "scripts": {
+    "build": "tsc && chmod 755 build/index.js"
+  },
+  "files": [
+    "build"
+  ],
+  "license": "ISC",
+  "author": "mushan <mushanfu0@gmail.com>",
+  "description": "",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.25.3",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.10",
+    "typescript": "^5.9.3"
+  }
+}
