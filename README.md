@@ -1,5 +1,7 @@
 # Freesound-MCP
 
+[![MCP Badge](https://lobehub.com/badge/mcp/mushan-bit-freesound-mcp)](https://lobehub.com/mcp/mushan-bit-freesound-mcp)
+
 A Model Context Protocol (MCP) server that enables AI applications to search and download audio resources from the [Freesound](https://freesound.org/) platform via natural language commands.
 
 ## Overview
